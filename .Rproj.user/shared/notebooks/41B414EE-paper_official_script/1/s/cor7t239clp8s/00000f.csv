@@ -1,0 +1,8 @@
+"0","error <- read_sheet(ss = ""https://docs.google.com/spreadsheets/d/1pJARnWKVofKlYgGEp2Ow7-nyavJL20oJvEFlFRXdY_Y/edit#gid=1880677060"", sheet = ""LADs_outlet_counts"")
+"
+"2","Auto-refreshing stale OAuth token.
+"
+"2","[32mv[39m Reading from [36mLocal News Datasets Triangulation[39m.
+"
+"2","[32mv[39m Range '[33m'LADs_outlet_counts'[39m'.
+"
